@@ -5,12 +5,12 @@ Issues
 Marketplace
 Explore
  
-@richusir 
-richusir
+@jackqwin 
+LC Pedro 
 /
-RICHUSER_B1
+LC PEDRO
 Public
-forked from richusir/RICHUSER_B1
+forked from jackqwin/LC PEDRO
 0
 1121
 Code
@@ -21,13 +21,13 @@ Wiki
 Security
 Insights
 Settings
-RICHUSER_B1/bot.js /
-@richusir
-richusir Create bot.js
+LC Pedro/bot.js /
+@LC Pedro
+LC Pedro Create bot.js
 Latest commit 21d64e4 on 9 Aug
  History
  11 contributors
-@farhan-dqz@phaticusthiccy@yusufusta@richusir@lyfe00011@MuhammedKpln@saidalisaid2@afnanplk@Xenon67@oguz162@justinthoms
+@farhan-dqz@phaticusthiccy@yusufusta@jackqwin@lyfe00011@MuhammedKpln@saidalisaid2@afnanplk@Xenon67@oguz162@justinthoms
 274 lines (239 sloc)  11.5 KB
   
 /* Copyright (C) 2020 Yusuf Usnta.
